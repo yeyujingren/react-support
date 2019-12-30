@@ -2,7 +2,7 @@
     "name": "react-support",
     "displayName": "react support",
     "description": "一款提供快捷生成react模板的插件",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "yeyujingren",
     "engines": {
         "vscode": "^1.41.0"

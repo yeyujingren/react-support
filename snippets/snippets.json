@@ -70,5 +70,26 @@
 			"}"
 		],
 		"description": "function component template"
+	},
+	"clg": {
+		"prefix": "console.log",
+		"body":[
+			"console.log(${1:log})"
+		],
+		"description": "console.log"
+	},
+	"clw": {
+		"prefix": "console.warn",
+		"body":[
+			"console.warn(${1:warn})"
+		],
+		"description": "console.warn"
+	},
+	"cle": {
+		"prefix": "console.error",
+		"body":[
+			"console.error(${1:error})"
+		],
+		"description": "console.error"
 	}
 }
