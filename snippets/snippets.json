@@ -72,21 +72,21 @@
 		"description": "function component template"
 	},
 	"clg": {
-		"prefix": "console.log",
+		"prefix": "clg",
 		"body":[
 			"console.log(${1:log})"
 		],
 		"description": "console.log"
 	},
 	"clw": {
-		"prefix": "console.warn",
+		"prefix": "clw",
 		"body":[
 			"console.warn(${1:warn})"
 		],
 		"description": "console.warn"
 	},
 	"cle": {
-		"prefix": "console.error",
+		"prefix": "cle",
 		"body":[
 			"console.error(${1:error})"
 		],
